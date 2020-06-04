@@ -494,7 +494,9 @@ section.our-team-main {
 .section-title-contact p {
     color: #fff;
 }
-
+section.contact-us-area.section-padding {
+    background: linear-gradient(yellow, green);
+}
 .contact-area {
     background-image: url(../img/header-image.jpg);
     background-repeat: no-repeat;
